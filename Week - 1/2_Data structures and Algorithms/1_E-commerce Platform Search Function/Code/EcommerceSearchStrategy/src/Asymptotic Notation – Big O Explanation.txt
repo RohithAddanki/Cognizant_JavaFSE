@@ -1,0 +1,9 @@
+Big O Notation is used to describe the performance (time or space) of an algorithm as input size grows.
+- O(1): Constant time
+- O(n): Linear time
+- O(log n): Logarithmic time
+- O(n log n), O(n^2), etc.
+
+For Searching:
+- Linear Search: Best O(1), Avg O(n), Worst O(n)
+- Binary Search: Best O(1), Avg/Worst O(log n), requires sorted data
