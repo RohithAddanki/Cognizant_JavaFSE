@@ -1,0 +1,31 @@
+.box {
+  width: 300px;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+dt {
+  font-weight: 500;
+}
+.detailList {
+  margin: 0;
+  padding: 0;
+}
+
+.detailItem {
+  margin-bottom: 1rem;
+}
+
+.detailItem dt {
+  font-weight: bold;
+  text-align: left;
+}
+
+.detailItem dd {
+  margin: 0;
+  white-space: pre-wrap;
+}
