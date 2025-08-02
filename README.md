@@ -46,6 +46,18 @@ This repository contains all weekly exercises and projects done as part of my de
 - **ReactJS** (Hooks, Props, State, Routing)
 - **Git & GitHub** for version control and collaboration
 - **Maven** for build automation
+- **Postman** for API testing
+
+---
+
+## 💻 IDEs Used
+
+- 🌱 **Eclipse IDE**
+- 🐬 **Oracle SQL Developer**
+- ☕ **Spring Tool Suite (STS)**
+- ⚛️ **Visual Studio Code**
+- 🔧 **Git Bash**
+- 📝 **Notepad++**
 
 ---
 
