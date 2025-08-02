@@ -63,7 +63,8 @@ This repository contains all weekly exercises and projects done as part of my de
 
 ## 🧑‍🎓 Author
 **Rohith Addanki**
-🔗 LinkedIn: https://www.linkedin.com/in/rohith-addanki-a19016248
+
+### 🔗 LinkedIn: https://www.linkedin.com/in/rohith-addanki-a19016248
 ---
 
 ***📌 This repository serves as a comprehensive showcase of my weekly progress during the Cognizant Java FSE Digital Nurture 4.0 program.***
