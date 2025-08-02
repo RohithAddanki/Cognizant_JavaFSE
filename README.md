@@ -1,6 +1,7 @@
-# 🧑‍💻 Cognizant Java Full Stack Engineering – Hands-on Repository
+# 🚀 Cognizant Digital Nurture 4.0 – Deep Skilling - Java Full Stack Engineering(FSE)
 
-Welcome! This repository contains all my weekly hands-on exercises and project work completed as part of the **Cognizant Java Full Stack Engineer Training Program**. Each week focuses on a specific module from foundational software concepts to full-stack development using Java, Spring Boot, React, and Git.
+Welcome to my hands-on project repository for the **Digital Nurture 4.0 – Deep Skilling - Java Full Stack Engineering Program** conducted by **Cognizant**.  
+This repository contains all weekly exercises and projects done as part of my deep skilling journey in full stack Java development.
 
 ---
 
@@ -36,7 +37,7 @@ Welcome! This repository contains all my weekly hands-on exercises and project w
 
 ---
 
-## 🚀 Technologies & Tools Used
+## 🛠️ Technologies & Tools Used
 
 - **Java** (Core + Advanced)
 - **Spring Core**, **Spring Boot**, **Spring Data JPA**
